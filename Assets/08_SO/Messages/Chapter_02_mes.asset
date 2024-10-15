@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: feaad14bed79e3c4ea8a82481fb7a9c4, type: 3}
+  m_Name: Chapter_02_mes
+  m_EditorClassIdentifier: 
+  messages:
+  - readerName: "\uC7AD"
+    message: "\uD53C\uD574\uC790\uB294 \uC790\uC2E0\uC758 \uC790\uD0DD\uC5D0\uC11C
+      \uC228\uC9C4\uCC44 \uBC1C\uACAC\uB410\uB2E4\uB354\uAD70."
+    isQuest: 0
+    isNextStage: 0
+    closeMes: 0
+  - readerName: "\uC7AD"
+    message: "\uC6A9\uC758\uC790\uB791 \uD604\uC7A5 \uBCF4\uACE0\uC11C\uB294 \uD30C\uC77C\uC5D0
+      \uB123\uC5B4\uB480\uC73C\uB2C8 \uB098\uC911\uC5D0 \uD55C \uBC88 \uD655\uC778\uD558\uB77C\uACE0."
+    isQuest: 0
+    isNextStage: 0
+    closeMes: 0
+  - readerName: "\uC7AD"
+    message: "\uADF8\uB7EC\uBA74 \uC6A9\uC758\uC790\uC5D0 \uB300\uD55C \uC870\uC0AC\uAC00
+      \uC804\uBD80 \uB05D\uB098\uBA74 \uB098\uC5D0\uAC8C \uC640\uB77C."
+    isQuest: 0
+    isNextStage: 0
+    closeMes: 0
+  - readerName: 
+    message: "\uC99D\uAC70\uC640 \uC6A9\uC758\uC790 \uD30C\uC77C\uC744 \uC218\uC9D1\uD488\uC5D0
+      \uB123\uACE0 \uC774\uACF3\uC5D0\uC11C \uB9D0\uC744(Space) \uAC78\uBA74 \uB420\uB4EF
+      \uD558\uB2E4."
+    isQuest: 1
+    isNextStage: 0
+    closeMes: 1
